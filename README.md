@@ -14,14 +14,14 @@
 
 Soy un Desarrollador de Software recién egresado de la carrera de Ingeniería Informática. Me apasiona crear soluciones tecnológicas que sean eficientes, escalables y fáciles de usar, siempre buscando resolver problemas reales con un enfoque innovador.
 
-🔹 Me especializo en desarrollo full-stack, utilizando tecnologías como React, TypeScript, Node.js, Express y PostgreSQL para construir aplicaciones robustas.
+🔹 Me especializo en el desarrollo back-end, utilizando tecnologías como Python, TypeScript, Node.js, Express, Django y PostgreSQL para construir aplicaciones.
 
 🔹 Mi formación me ha permitido adquirir un fuerte dominio en programación, algoritmos y estructura de datos, lo que me permite abordar desafíos técnicos complejos de manera efectiva.
 
 🔹 Soy un aprendiz constante, siempre buscando mejorar mis habilidades a través de la investigación de nuevas tecnologías y la participación en proyectos prácticos. Mi objetivo es mantenerme al tanto de las tendencias emergentes en el mundo del software.
 
 ¿Qué me motiva?
-Mi mayor motivación es desarrollar software que haga una diferencia real, brindando soluciones útiles y optimizadas para los usuarios. Me apasiona crear aplicaciones bien diseñadas, fáciles de mantener y con un alto estándar de calidad.
+Mi mayor motivación es desarrollar software que pueda hacer una diferencia, brindando soluciones optimizadas para los usuarios.
 
 <br><br>
 
