@@ -105,7 +105,7 @@ Mi mayor motivación es desarrollar software que pueda hacer una diferencia, bri
 <br>
 
 <li>
-  <a href="https://twitter.com/M0nnx" target="_blank">
+  <a href="https://twitter.com/M0nn_x" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin-bottom: 5px;"/>
   </a>
 </li>
