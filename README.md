@@ -30,10 +30,10 @@
 
 <p align="center">
 
-- **Languages**:
+- **Lenguajes**:
     
-    ![Node.js](https://img.shields.io/badge/Node.js%20-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-    ![SQL](https://img.shields.io/badge/SQL%20-%2300758F.svg?style=for-the-badge&logo=sql&logoColor=white)
+    ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
