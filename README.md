@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hola , Soy M0nnx</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=M0nnx..&hearts;++;Desarrollador+de+Software+Recien+Egresado,;Rapido+Aprendizaje/Autodidacta,;Amor+Aprender+cosas+nuevas..<3"></a>
 </p>
 
 <br>
@@ -12,8 +12,16 @@
 
 <br>
 
-- Un apasionado desarrolador Back-end
-- Actualmente reforzando mis aprendizajes
+Soy un Desarrollador de Software recién egresado de la carrera de Ingeniería Informática. Me apasiona crear soluciones tecnológicas que sean eficientes, escalables y fáciles de usar, siempre buscando resolver problemas reales con un enfoque innovador.
+
+🔹 Me especializo en desarrollo full-stack, utilizando tecnologías como React, TypeScript, Node.js, Express y PostgreSQL para construir aplicaciones robustas.
+
+🔹 Mi formación me ha permitido adquirir un fuerte dominio en programación, algoritmos y estructura de datos, lo que me permite abordar desafíos técnicos complejos de manera efectiva.
+
+🔹 Soy un aprendiz constante, siempre buscando mejorar mis habilidades a través de la investigación de nuevas tecnologías y la participación en proyectos prácticos. Mi objetivo es mantenerme al tanto de las tendencias emergentes en el mundo del software.
+
+¿Qué me motiva?
+Mi mayor motivación es desarrollar software que haga una diferencia real, brindando soluciones útiles y optimizadas para los usuarios. Me apasiona crear aplicaciones bien diseñadas, fáciles de mantener y con un alto estándar de calidad.
 
 <br><br>
 
@@ -26,11 +34,18 @@
 - **Lenguajes**:
     
     ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
-    
+
+- **Base de Datos**:
+
+    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+    ![SQL Server](https://img.shields.io/badge/SQL%20Server-%230078D4.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+
+<br>
+
 - **Front-End Desarrollo**:
 
     ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
