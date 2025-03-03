@@ -5,10 +5,10 @@
 Soy estudiante de ingeniería informática, actualmente a acabo de egresar de mi carrera. Estoy ampliando mis conocimientos tanto en desarrollo front-end como back-end, Me encanta aprender 
 y construir cosas nuevas, productivas, innovadoras y creativas.
 
--🌱 Actualmente estoy aprendiendo...
+- 🌱 Actualmente estoy aprendiendo...
+  - Angular  
   - Java
-  - Angular
-- ✔ Pregúntame sobre cualquier cosa, estaré feliz de ayudar.<br>
+- ✔ Pregúntame sobre cualquier cosa, estaré feliz de ayudar.
 - Fuera de la tecnología, 🎮 me encanta jugar videojuegos, 🎵 escuchar música, 📖 leer libros de ciencia y Escuchar podcast sobre variados temas.
 - 📫 Contáctame en: <a href="deviaalfaroesteban@gmail.com">deviaalfaroesteban@gmail.com</a>
 <br><br>
