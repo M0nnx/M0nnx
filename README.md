@@ -7,7 +7,7 @@ y construir cosas nuevas, productivas, innovadoras y creativas.
 
 - 🌱 Actualmente estoy aprendiendo...
   - Angular  
-  - Java
+  - Spring
 - ✔ Pregúntame sobre cualquier cosa, estaré feliz de ayudar.
 - Fuera de la tecnología, 🎮 me encanta jugar videojuegos, 🎵 escuchar música, 📖 leer libros de ciencia y Escuchar podcast sobre variados temas.
 - 📫 Contáctame en: <a href="https://www.linkedin.com/in/estebanda/">Mi linkedin</a>
