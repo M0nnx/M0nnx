@@ -10,7 +10,7 @@ y construir cosas nuevas, productivas, innovadoras y creativas.
   - Java
 - ✔ Pregúntame sobre cualquier cosa, estaré feliz de ayudar.
 - Fuera de la tecnología, 🎮 me encanta jugar videojuegos, 🎵 escuchar música, 📖 leer libros de ciencia y Escuchar podcast sobre variados temas.
-- 📫 Contáctame en: <a href="https://www.linkedin.com/in/estebanda/">deviaalfaroesteban@gmail.com</a>
+- 📫 Contáctame en: <a href="https://www.linkedin.com/in/estebanda/">Mi linkedin</a>
 <br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
