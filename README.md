@@ -14,6 +14,10 @@ y construir cosas nuevas, productivas, innovadoras y creativas.
 - ✔ Mi Portafolio web:  <a href="https://m0nnx.github.io/">Pagina</a>
 <br><br>
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@M0nnx/30-nites-of-code)  
+  ![@M0nnx #30NitesOfCode](https://www.codedex.io/api/petStatus?user=M0nnx)
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
