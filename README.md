@@ -58,10 +58,4 @@ y construir cosas nuevas, productivas, innovadoras y creativas.
 <br>
 </div>
 
-  [Check out my progress!](https://www.codedex.io/@M0nnx/30-nites-of-code)  
-  ![@M0nnx #30NitesOfCode](https://www.codedex.io/api/petStatus?user=M0nnx)
-
-<div align='center'>
-
-</div>
 <br>
