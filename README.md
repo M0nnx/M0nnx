@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> Sobre mí
 
-Soy estudiante de ingeniería informática, actualmente a acabo de egresar de mi carrera. Estoy ampliando mis conocimientos tanto en desarrollo front-end como back-end, Me encanta aprender 
+Soy estudiante de ingeniería informática, actualmente acabo de egresar de mi carrera. Estoy ampliando mis conocimientos tanto en desarrollo front-end como back-end, Me encanta aprender 
 y construir cosas nuevas, productivas, innovadoras y creativas.
 
 - 🌱 Actualmente estoy aprendiendo...
