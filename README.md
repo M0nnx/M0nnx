@@ -6,7 +6,7 @@ Soy estudiante de ingeniería informática, actualmente acabo de egresar de mi c
 y construir cosas nuevas, productivas, innovadoras y creativas.
 
 - 🌱 Actualmente estoy aprendiendo...
-  - Angular  
+  - C#  
   - Spring Boot
 - ✔ Pregúntame sobre cualquier cosa, estaré feliz de ayudar.
 - Fuera de la tecnología, 🎮 me encanta jugar videojuegos, 🎵 escuchar música, 📖 leer libros de ciencia y Escuchar podcast sobre variados temas.
